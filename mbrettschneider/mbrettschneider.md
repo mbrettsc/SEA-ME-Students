@@ -10,4 +10,4 @@
 ## About me:
 - I love writing C/C++ code and working on DevOps and IoT projects. I’m passionate about building efficient solutions and exploring new tech.
 ## Project Links:
-- https://github.com/mbrettsc/SEA-ME-Students
+- https://github.com/mbrettsc/SEA-ME-warm-up
